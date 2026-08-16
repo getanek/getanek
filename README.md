@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Getaneh 👋</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/80gXX0YToWIAAAAC/dexter%27s-lab-title-sequence-theme-genndy-tartakovsky-dee-dee-cartoon-dexter%27s-laboratory.gif" width="1000" alt="Dexter's Laboratory GIF">
+  <img src="./assets/dexters-lab.gif" width="1000" alt="Dexter's Laboratory GIF">
 </p>
 
 ### 🧠 About Me
