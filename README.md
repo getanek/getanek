@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Getaneh 👋</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/cGcqGSblyMQAAAAC/dexter-computer.gif" width="1000" alt="Dexter's Laboratory GIF">
+  <img src="https://media1.tenor.com/m/80gXX0YToWIAAAAC/dexter%27s-lab-title-sequence-theme-genndy-tartakovsky-dee-dee-cartoon-dexter%27s-laboratory.gif" width="1000" alt="Dexter's Laboratory GIF">
 </p>
 
 ### 🧠 About Me
@@ -71,7 +71,7 @@ I build software for Dubai real estate: broker portals, property data pipelines,
 <a href="https://x.com/getanek" target="_blank">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
-<a href="https://instagram.com/get.nek" target="_blank">
+<a href="https://instagram.com/get.anek" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 </p>
