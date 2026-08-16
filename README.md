@@ -47,6 +47,7 @@ I run **[AntoxMedia](https://antox.io)**, a Dubai based growth agency for real e
 ### 🛠️ Open Source
 - **[marketingskills](https://github.com/getanek/marketingskills)**: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - **[awesome-design-md](https://github.com/getanek/awesome-design-md)**: A collection of DESIGN.md files inspired by popular brand design systems. Drop one in and let coding agents generate a matching UI.
+- **[meta-updates-content](https://github.com/getanek/meta-updates-content)**: Turns Meta ads platform changes into ready to post content, LinkedIn post, X thread, and Instagram carousel and story scripts, per advertiser niche.
 - **[claude-mem](https://github.com/getanek/claude-mem)**: Claude Code plugin that captures a session, compresses it with the agent SDK, and injects the relevant context back into future sessions.
 - **[whasapify-twenty](https://github.com/getanek/whasapify-twenty)**: White label WhatsApp outreach engine built natively inside a Twenty CRM shell.
 
@@ -71,6 +72,12 @@ I run **[AntoxMedia](https://antox.io)**, a Dubai based growth agency for real e
 </a>
 <a href="https://www.linkedin.com/in/getanek" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://x.com/getanek" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://instagram.com/get.nek" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="mailto:getaneek@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
