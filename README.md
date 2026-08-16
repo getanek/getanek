@@ -8,7 +8,7 @@
 I build software for Dubai real estate: broker portals, property data pipelines, WhatsApp outreach engines, and AI agents wired into all of it. Background is real estate and performance marketing, which is why most of what I ship is aimed at the boring end of the funnel where the money actually moves.
 
 - 📍 Based in Dubai, UAE
-- 🏗️ 7+ years across real estate and performance marketing
+- 🏗️ 4 years across real estate and performance marketing
 - 🤖 Into AI agents, data pipelines, and full stack Next.js
 - ⚡ Most of my work lives in private client repos, the public ones are the tools I open sourced
 
