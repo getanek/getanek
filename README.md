@@ -55,27 +55,19 @@ I build software for Dubai real estate: broker portals, property data pipelines,
 
 ### Technologies
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwind,nodejs,supabase,postgres,docker,cloudflare,vercel,git,githubactions,linux,vscode" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Meta%20Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads" />
+  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-### Connect with Me
-<p align="center">
-<a href="https://getanek.com" target="_blank">
-<img src="https://img.shields.io/badge/Website-getanek.com-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-</a>
-<a href="https://www.linkedin.com/in/getanek" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://x.com/getanek" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="https://instagram.com/get.anek" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-</p>
+### Connect
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=getanek&style=flat-square&color=7AA2F7" alt="profile views" />
+  <a href="https://getanek.com">getanek.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/getanek">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://x.com/getanek">X</a> &nbsp;·&nbsp;
+  <a href="https://instagram.com/get.anek">Instagram</a>
 </p>
