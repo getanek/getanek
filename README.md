@@ -1,21 +1,16 @@
 <h1 align="center">Hey, I'm Getaneh 👋</h1>
 
 <p align="center">
-  <b>I build AI systems that sell real estate in Dubai.</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=650&lines=Founder+%40+AntoxMedia;Real+estate+%2B+paid+ads+%2B+automation;Next.js+%C2%B7+Supabase+%C2%B7+Claude+%C2%B7+n8n;Shipping+something+every+single+day" alt="Typing SVG" />
+  <img src="https://media1.tenor.com/m/cGcqGSblyMQAAAAC/dexter-computer.gif" width="1000" alt="Dexter's Laboratory GIF">
 </p>
 
 ### 🧠 About Me
-I run **[AntoxMedia](https://antox.io)**, a Dubai based growth agency for real estate. I spend most of my time turning messy property data and ad accounts into software that actually closes deals: broker portals, WhatsApp outreach engines, off plan explorers, and AI agents wired into the whole thing.
+I build software for Dubai real estate: broker portals, property data pipelines, WhatsApp outreach engines, and AI agents wired into all of it. Background is real estate and performance marketing, which is why most of what I ship is aimed at the boring end of the funnel where the money actually moves.
 
 - 📍 Based in Dubai, UAE
-- 🏢 Founder at AntoxMedia, marketing plus product for UAE real estate
 - 🏗️ 7+ years across real estate and performance marketing
-- 🤖 Focused on AI agents, data pipelines, and full stack Next.js
-- ⚡ Most of my work is private client repos, the public ones are the tools I open sourced
+- 🤖 Into AI agents, data pipelines, and full stack Next.js
+- ⚡ Most of my work lives in private client repos, the public ones are the tools I open sourced
 
 ---
 
@@ -45,10 +40,10 @@ I run **[AntoxMedia](https://antox.io)**, a Dubai based growth agency for real e
 ---
 
 ### 🛠️ Open Source
-- **[marketingskills](https://github.com/getanek/marketingskills)**: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+- **[marketingskills](https://github.com/getanek/marketingskills)**: Marketing skills for coding agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - **[awesome-design-md](https://github.com/getanek/awesome-design-md)**: A collection of DESIGN.md files inspired by popular brand design systems. Drop one in and let coding agents generate a matching UI.
 - **[meta-updates-content](https://github.com/getanek/meta-updates-content)**: Turns Meta ads platform changes into ready to post content, LinkedIn post, X thread, and Instagram carousel and story scripts, per advertiser niche.
-- **[claude-mem](https://github.com/getanek/claude-mem)**: Claude Code plugin that captures a session, compresses it with the agent SDK, and injects the relevant context back into future sessions.
+- **[claude-mem](https://github.com/getanek/claude-mem)**: Session memory plugin that compresses a coding session and injects the relevant context back into future ones.
 - **[whasapify-twenty](https://github.com/getanek/whasapify-twenty)**: White label WhatsApp outreach engine built natively inside a Twenty CRM shell.
 
 ### 🏗️ What I'm Building
@@ -78,9 +73,6 @@ I run **[AntoxMedia](https://antox.io)**, a Dubai based growth agency for real e
 </a>
 <a href="https://instagram.com/get.nek" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:getaneek@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </p>
 
