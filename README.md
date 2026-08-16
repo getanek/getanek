@@ -31,9 +31,7 @@ I build software for Dubai real estate: broker portals, property data pipelines,
   <img src="https://streak-stats.demolab.com?user=getanek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-#### Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getanek&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=getanek&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" />
 </p>
 
